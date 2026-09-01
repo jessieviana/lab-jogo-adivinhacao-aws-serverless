@@ -88,6 +88,6 @@ na **Escola da Nuvem** em parceria com a **AWS**.
 
 <div align="center">
 
-`jessie viana. · cloud security · blue team · Rio de Janeiro`
+`jessie viana. · cloud · Rio de Janeiro`
 
 </div>
